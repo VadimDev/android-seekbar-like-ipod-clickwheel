@@ -5,6 +5,9 @@ This is a custom component for Android intended for use instead of a SeekBar and
 
 ![Sample Image](https://github.com/VadimDev/android-seekbar-like-ipod-clickwheel/blob/master/ru.clickwheel.TestActivity/res/raw/sample_image.png
  "An example implementation")
+ 
+!(https://github.com/VadimDev/android-seekbar-like-ipod-clickwheel/blob/master/ru.clickwheel.TestActivity/res/raw/sample_image_1.png)
+
 
 **See more about here:**
 
