@@ -7,12 +7,11 @@ This is a custom component for Android intended for use instead of a SeekBar and
  "An example implementation")
 ![Sample Image 2](https://github.com/VadimDev/android-seekbar-like-ipod-clickwheel/blob/master/ru.clickwheel.TestActivity/res/raw/sample_image_1.png "Another example implementation")
 
-See more about here:
--------------
+**See more about here:**
 
-[link](http://mindtherobot.com/blog/534/android-ui-making-an-analog-rotary-knob/)
+[http://mindtherobot.com/blog/534/android-ui-making-an-analog-rotary-knob/](http://mindtherobot.com/blog/534/android-ui-making-an-analog-rotary-knob/)
 
-#tags
+**tags**
 -------------
 rotary knob
 rotary dialer
